@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970426356762",
+    "firebase_url": "https://loctracking-2cccc.firebaseio.com",
+    "project_id": "loctracking-2cccc",
+    "storage_bucket": "loctracking-2cccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970426356762:android:8950976d76b30ce7",
+        "android_client_info": {
+          "package_name": "com.pyaephyo.loctracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970426356762-eug6cipu1o7abg6d917o17sel6vkm54v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pyaephyo.loctracking",
+            "certificate_hash": "8cd80b573bb52c2596bdf3ba2a03d00e846c4b48"
+          }
+        },
+        {
+          "client_id": "970426356762-fqjkkrcp6dopv6oq9lrc9v1r49r4s3tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRH94YJlv-8mFOELVMYaM4xJvyN15T620"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970426356762-fqjkkrcp6dopv6oq9lrc9v1r49r4s3tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
